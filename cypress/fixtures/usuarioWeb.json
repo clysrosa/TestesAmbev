@@ -1,0 +1,6 @@
+{
+  "emailValido": "ClysTestes@qa.com",
+  "senhaValida": "123456",
+  "emailInvalido": "testes@123.com.br",
+  "senhaInvalida": "senha"
+}
